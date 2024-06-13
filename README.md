@@ -1,4 +1,4 @@
-Hormone Predictor Application
+Hormone Predictor Application. 
 This application is designed to predict cortisol and melatonin levels from an Excel file containing hormone data. It uses pre-trained machine learning models to make these predictions.
 
 Requirements
