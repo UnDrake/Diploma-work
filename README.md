@@ -21,12 +21,6 @@ Usage
 - Click the "Choose file" button to open a file dialog.
 - Select an Excel file containing the hormone data.
 - The application will process the file and display the prediction results for cortisol and melatonin.
-
-Example
-1. Run the script to open the application window.
-2. Click on "Choose file".
-3. Navigate to your test folder and select the Excel file with hormone data.
-4. The predictions for cortisol and melatonin will be displayed on the screen.
 By following these steps, you can easily predict your hormone levels using the Hormone Predictor application.
 
 Code Explanation
